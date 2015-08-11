@@ -1,3 +1,4 @@
+# Copyright 2015
 class MicropostsController < ApplicationController
   # GET /microposts
   # GET /microposts.json
